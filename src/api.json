@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "title": "Auf der Planke",
+      "id": 1
+    },
+    {
+      "title": "Das Leben miteinander",
+      "id": 2
+    },
+    {
+      "title": "Im Rausch der Gefühle",
+      "id": 3
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Trick in ein fliessendes Gewäßer",
+      "comment": "",
+      "points": 20,
+      "multiplier": false,
+      "catId": 1,
+      "id": 1
+    },
+    {
+      "title": "Fremdes Deck durchtreten",
+      "comment": "No Team",
+      "points": 80,
+      "multiplier": false,
+      "catId": 1,
+      "id": 2
+    },
+    {
+      "title": "Stairs ab 2 Stufen",
+      "points": 5,
+      "multiplier": true,
+      "catId": 1,
+      "id": 12
+    }
+  ],
+  "users": {
+
+  }
+}
