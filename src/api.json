@@ -38,7 +38,37 @@
       "id": 12
     }
   ],
-  "users": {
-
-  }
+  "users": [
+    {
+      "name": "Lukas Scheffzick",
+      "id": 1,
+      "tasks": [
+        {
+          "id": 2,
+          "points": 80,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "name": "Martin Gawlita",
+      "id": 2,
+      "tasks": []
+    },
+    {
+      "name": "Philip Plagge",
+      "id": 3,
+      "tasks": []
+    },
+    {
+      "name": "Robert Linser",
+      "id": 4,
+      "tasks": []
+    },
+    {
+      "name": "Eric MacLean",
+      "id": 5,
+      "tasks": []
+    }
+  ]
 }
