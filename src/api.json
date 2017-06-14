@@ -31,11 +31,116 @@
       "id": 2
     },
     {
+      "title": "Männliches Gap mit Bier",
+      "comment": "Plastikflasche oder Dose",
+      "points": 60,
+      "multiplier": false,
+      "catId": 1,
+      "id": 3
+    },
+    {
+      "title": "Männliches Gap mit Bier",
+      "comment": "Glasflasche",
+      "points": 80,
+      "multiplier": false,
+      "catId": 1,
+      "id": 4
+    },
+    {
+      "title": "Skate einen Stein",
+      "comment": "",
+      "points": 15,
+      "multiplier": false,
+      "catId": 1,
+      "id": 5
+    },
+    {
       "title": "Stairs ab 2 Stufen",
+      "comment": "",
       "points": 5,
       "multiplier": true,
       "catId": 1,
+      "id": 6
+    },
+    {
+      "title": "Zärtlicher Kuss",
+      "comment": "No Team",
+      "points": 15,
+      "multiplier": false,
+      "catId": 2,
+      "id": 7
+    },
+    {
+      "title": "Golden Shower",
+      "comment": "",
+      "points": 50,
+      "multiplier": false,
+      "catId": 2,
+      "id": 8
+    },
+    {
+      "title": "Trage einen Tag durchgehend eine mehrfarbige Leggings",
+      "comment": "",
+      "points": 30,
+      "multiplier": false,
+      "catId": 2,
+      "id": 9
+    },
+    {
+      "title": "Tailwhip mit Scooter",
+      "comment": "",
+      "points": 10,
+      "multiplier": false,
+      "catId": 2,
+      "id": 10
+    },
+    {
+      "title": "Vattern verprügeln bis er aufgibt",
+      "comment": "",
+      "points": 50,
+      "multiplier": false,
+      "catId": 2,
+      "id": 11
+    },
+    {
+      "title": "Bier exen",
+      "comment": "",
+      "points": 10,
+      "multiplier": false,
+      "catId": 3,
       "id": 12
+    },
+    {
+      "title": "1 1/2 Liter Bier in 1 1/2 Minuten",
+      "comment": "",
+      "points": 25,
+      "multiplier": false,
+      "catId": 3,
+      "id": 13
+    },
+    {
+      "title": "Bier durch einen Pizza-Trichter trinken",
+      "comment": "",
+      "points": 10,
+      "multiplier": false,
+      "catId": 3,
+      "id": 14
+    },
+    {
+      "title": "Kotzen",
+      "comment": "",
+      "points": 10,
+      "multiplier": false,
+      "catId": 3,
+      "id": 15
+    },
+    {
+      "title": "Lass dir ein Bier spendieren",
+      "comment": "",
+      "points": 10,
+      "multiplier": false,
+      "catId": 3,
+      "id": 16
     }
   ],
   "users": [
@@ -43,8 +148,8 @@
       "name": "Lukas Scheffzick",
       "nickname": "Stulle",
       "id": 1,
-      "image": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/16865196_766664226832507_8229728815800377818_n.jpg?oh=dbfe0f68e76150bfcfe600981f81f34d&oe=59DA98EA",
-      "tasks": [
+      "image": "https://scontent.ftxl1-1.fna.fbcdn.net/v/t1.0-9/19113875_826232277542368_4168522841069665406_n.jpg?oh=0b7977342f3f42a784a9724a41acecb6&oe=59D3DF4B",
+      "completed": [
         {
           "id": 2,
           "points": 80,
@@ -57,21 +162,56 @@
       "nickname": "Shawty",
       "id": 2,
       "image": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/1045007_558927827479472_390644001_n.jpg?oh=7da86d4f327f5919e20ad08885902696&oe=59E0F6DB",
-      "tasks": []
+      "completed": []
     },
     {
       "name": "Philip Plagge",
       "nickname": "Schlong",
       "id": 3,
       "image": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13239161_1298768346804157_2078685171971691045_n.jpg?oh=d3c6faee35bcd399b4e65d34188390f4&oe=59E49B94",
-      "tasks": []
+      "completed": []
     },
     {
       "name": "Robert Linser",
       "nickname": "Vattern",
       "id": 4,
       "image": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13179218_992879437416268_2089267868502075429_n.jpg?oh=1935a873952453a377b094bd57040748&oe=59E88E24",
-      "tasks": []
+      "completed": []
+    },
+    {
+      "name": "Andre Gawlita",
+      "nickname": "Schnellschuss",
+      "id": 5,
+      "image": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13179218_992879437416268_2089267868502075429_n.jpg?oh=1935a873952453a377b094bd57040748&oe=59E88E24",
+      "completed": []
+    },
+    {
+      "name": "Steffen Heetjans",
+      "nickname": "Unbekannter",
+      "id": 6,
+      "image": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13179218_992879437416268_2089267868502075429_n.jpg?oh=1935a873952453a377b094bd57040748&oe=59E88E24",
+      "completed": []
+    },
+    {
+      "name": "Jannis Jobke",
+      "nickname": "Bingo",
+      "id": 7,
+      "image": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13179218_992879437416268_2089267868502075429_n.jpg?oh=1935a873952453a377b094bd57040748&oe=59E88E24",
+      "completed": []
+    },
+    {
+      "name": "Eric MacLean",
+      "nickname": "Streuner",
+      "id": 8,
+      "image": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13179218_992879437416268_2089267868502075429_n.jpg?oh=1935a873952453a377b094bd57040748&oe=59E88E24",
+      "completed": []
+    },
+    {
+      "name": "Niklas Wanning",
+      "nickname": "Walvernichter",
+      "id": 9,
+      "image": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13179218_992879437416268_2089267868502075429_n.jpg?oh=1935a873952453a377b094bd57040748&oe=59E88E24",
+      "completed": []
     }
   ]
 }
