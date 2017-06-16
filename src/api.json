@@ -187,7 +187,7 @@
     },
     {
       "name": "Steffen Heetjans",
-      "nickname": "Unbekannter",
+      "nickname": "Heat",
       "id": 6,
       "image": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13179218_992879437416268_2089267868502075429_n.jpg?oh=1935a873952453a377b094bd57040748&oe=59E88E24",
       "completed": []
@@ -212,6 +212,16 @@
       "id": 9,
       "image": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13179218_992879437416268_2089267868502075429_n.jpg?oh=1935a873952453a377b094bd57040748&oe=59E88E24",
       "completed": []
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "ammount": 10,
+      "senderId": 1,
+      "receiverId": 2,
+      "comment": "Lorem ipsum dolor sit amet",
+      "timestamp": ""
     }
   ]
 }
