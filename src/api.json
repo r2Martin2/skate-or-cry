@@ -156,7 +156,7 @@
           "comment": ""
         }
       ],
-      "transactions": []
+      "transactions": [1]
     },
     {
       "name": "Martin Gawlita",
@@ -187,7 +187,8 @@
       "nickname": "Schnellschuss",
       "id": 5,
       "image": "https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13179218_992879437416268_2089267868502075429_n.jpg?oh=1935a873952453a377b094bd57040748&oe=59E88E24",
-      "completed": []
+      "completed": [],
+      "transactions": []
     },
     {
       "name": "Steffen Heetjans",
