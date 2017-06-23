@@ -156,7 +156,7 @@
           "comment": ""
         }
       ],
-      "transactions": [1]
+      "transactions": []
     },
     {
       "name": "Martin Gawlita",
@@ -230,7 +230,23 @@
       "senderId": 1,
       "receiverId": 2,
       "comment": "Lorem ipsum dolor sit amet",
-      "timestamp": ""
+      "timestamp": 1498152591340
+    },
+    {
+      "id": 2,
+      "ammount": 20,
+      "senderId": 1,
+      "receiverId": 5,
+      "comment": "Dolor sit amet consetetur",
+      "timestamp": 1498152591362
+    },
+    {
+      "id": 3,
+      "ammount": 15,
+      "senderId": 1,
+      "receiverId": 3,
+      "comment": "Sadipscing elitr",
+      "timestamp": 1498152591375
     }
   ]
 }
