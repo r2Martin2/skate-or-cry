@@ -143,6 +143,83 @@
       "id": 16
     }
   ],
+  "achievements": [
+    {
+      "title": "Worst Slam",
+      "points": 100,
+      "userId": -1
+    },
+    {
+      "title": "Höchster / gewagtester Hippe Jump",
+      "points": 100,
+      "userId": -1
+    },
+    {
+      "title": "Längster Slide / Grind am Curb",
+      "points": 100,
+      "userId": -1
+    },
+    {
+      "title": "Weirdest Track",
+      "points": 100,
+      "userId": -1
+    },
+    {
+      "title": "Bester Flow in der Transition",
+      "points": 100,
+      "userId": -1
+    },
+    {
+      "title": "Most Slams",
+      "points": 100,
+      "userId": -1
+    },
+    {
+      "title": "Stärkster Trinker",
+      "points": 100,
+      "userId": -1
+    },
+    {
+      "title": "Best Dressed",
+      "points": 100,
+      "userId": -1
+    },
+    {
+      "title": "Männlichste Aktion",
+      "points": 100,
+      "userId": -1
+    },
+    {
+      "title": "Biggest Gap",
+      "points": 100,
+      "userId": -1
+    },
+    {
+      "title": "Best Trick",
+      "points": 100,
+      "userId": -1
+    },
+    {
+      "title": "Asozialste Aktion",
+      "points": 100,
+      "userId": -1
+    },
+    {
+      "title": "Längster Powerslide",
+      "points": 70,
+      "userId": -1
+    },
+    {
+      "title": "Meistes Vogelgetier berührt",
+      "points": 50,
+      "userId": -1
+    },
+    {
+      "title": "Gnarliest Spot / Landing",
+      "points": 100,
+      "userId": -1
+    }
+  ],
   "users": [
     {
       "name": "Lukas Scheffzick",
