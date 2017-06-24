@@ -146,76 +146,91 @@
   "achievements": [
     {
       "title": "Worst Slam",
+      "id": 1,
       "points": 100,
-      "userId": -1
+      "userId": 2
     },
     {
-      "title": "Höchster / gewagtester Hippe Jump",
+      "title": "Höchster / gewagtester Hippie Jump",
+      "id": 2,
       "points": 100,
       "userId": -1
     },
     {
       "title": "Längster Slide / Grind am Curb",
+      "id": 3,
       "points": 100,
       "userId": -1
     },
     {
       "title": "Weirdest Track",
+      "id": 4,
       "points": 100,
       "userId": -1
     },
     {
       "title": "Bester Flow in der Transition",
+      "id": 5,
       "points": 100,
       "userId": -1
     },
     {
       "title": "Most Slams",
+      "id": 6,
       "points": 100,
       "userId": -1
     },
     {
       "title": "Stärkster Trinker",
+      "id": 7,
       "points": 100,
       "userId": -1
     },
     {
       "title": "Best Dressed",
+      "id": 8,
       "points": 100,
       "userId": -1
     },
     {
       "title": "Männlichste Aktion",
+      "id": 9,
       "points": 100,
       "userId": -1
     },
     {
       "title": "Biggest Gap",
+      "id": 10,
       "points": 100,
       "userId": -1
     },
     {
       "title": "Best Trick",
+      "id": 11,
       "points": 100,
       "userId": -1
     },
     {
       "title": "Asozialste Aktion",
+      "id": 12,
       "points": 100,
       "userId": -1
     },
     {
       "title": "Längster Powerslide",
+      "id": 13,
       "points": 70,
       "userId": -1
     },
     {
       "title": "Meistes Vogelgetier berührt",
+      "id": 14,
       "points": 50,
       "userId": -1
     },
     {
       "title": "Gnarliest Spot / Landing",
+      "id": 15,
       "points": 100,
       "userId": -1
     }
