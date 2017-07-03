@@ -14,6 +14,8 @@ import './index.css';
 
 let store = createStore(reducer, composeWithDevTools(applyMiddleware(logger)));
 
+console.log("hallo");
+
 injectTapEventPlugin();
 
 ReactDOM.render(
